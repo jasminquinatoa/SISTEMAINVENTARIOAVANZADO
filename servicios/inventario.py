@@ -10,7 +10,7 @@ Aquí utilizo:
 """
 
 import json
-from modelo.producto import Producto
+from modelos.producto import Producto
 
 
 class Inventario:
