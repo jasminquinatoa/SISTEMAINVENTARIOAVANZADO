@@ -1,0 +1,14 @@
+{
+    "1": {
+        "id": "1",
+        "nombre": "Laptop",
+        "cantidad": 5,
+        "precio": 800.0
+    },
+    "2": {
+        "id": "2",
+        "nombre": "Tel\u00e9fono",
+        "cantidad": 10,
+        "precio": 500.0
+    }
+}
