@@ -4,7 +4,7 @@ Aquí se encuentra el menú interactivo en consola.
 """
 
 from servicios.inventario import Inventario
-from modelo.producto import Producto
+from modelos.producto import Producto
 
 
 def menu():
